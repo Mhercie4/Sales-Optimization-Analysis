@@ -24,11 +24,11 @@ To ensure the accuracy of the insights, the following steps were performed:
     * **Medium Value:** Orders between $500 - $1,000
     * **Low Value:** Orders < $500
 4.  **Time Intelligence:** Extracted Month and Year from order dates to visualize growth trends.
-
+---
 ## 📊 Dashboard Visuals
-  **[Dashboard Screenshot]**
 <img width="762" height="403" alt="Project 4 Dashboard" src="https://github.com/user-attachments/assets/72d93e33-1f19-4890-b5c1-8c19977f0684" />
 
+---
 * **Interactive Slicers:** Allows users to filter the entire report by Region, Segment, and Product Category.
 * **KPI Scorecard:** Real-time tracking of Total Sales, Total Profit, and Total Order counts.
 * **Revenue Trends:** A line chart visualizing monthly fluctuations and significant seasonal peaks.
