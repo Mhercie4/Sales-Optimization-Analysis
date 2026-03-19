@@ -49,13 +49,12 @@ To ensure the accuracy of the insights, the following steps were performed:
 * **Inventory Optimization:** Prioritize stock for the "Top 5" products ahead of the identified June peak to avoid stockouts.
 
 ---
-###**Project Resources**
+**Project Resources**
 
-Raw Dataset used [Project 4 Dataset.xlsx](https://github.com/user-attachments/files/26116338/Project.4.Dataset.xlsx)
+Raw Dataset used [Download Raw Dataset.xlsx](https://github.com/user-attachments/files/26116338/Project.4.Dataset.xlsx)
 
-Live Dashboard [Project 4 xl file.xlsx](https://github.com/user-attachments/files/26116352/Project.4.xl.file.xlsx)
+Live Dashboard [Download Live Dashboard file.xlsx](https://github.com/user-attachments/files/26116352/Project.4.xl.file.xlsx)
 
----
 ---
 
 **Author:** Mercy Enujuba (M.E Analytics) 
