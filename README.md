@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis (1,000+ Transactions)
+# Retail Sales Performance Analysis
 
 ## 📌 Project Overview
 This project features a comprehensive end-to-end data analysis of a retail company’s sales data using **Microsoft Excel**. The primary objective was to transform a raw, fragmented dataset of 1,000+ transactions into a dynamic, interactive "Business Intelligence" (BI) dashboard. The analysis provides actionable insights into regional performance, product profitability, and customer buying patterns to support data-driven decision-making.
